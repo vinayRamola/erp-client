@@ -8,7 +8,7 @@ import MenuBookIcon from "@mui/icons-material/MenuBook";
 import "react-calendar/dist/Calendar.css";
 import { useSelector } from "react-redux";
 import Notice from "../notices/Notice";
-import ShowNotice from "../notices/ShowNotice";
+import ShowNotice from "../notices/showNotice";
 import ReplyIcon from "@mui/icons-material/Reply";
 const Body = () => {
   const [open, setOpen] = useState(false);

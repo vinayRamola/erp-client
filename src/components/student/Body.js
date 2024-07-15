@@ -6,7 +6,7 @@ import BoyIcon from "@mui/icons-material/Boy";
 import SupervisorAccountIcon from "@mui/icons-material/SupervisorAccount";
 import MenuBookIcon from "@mui/icons-material/MenuBook";
 import "react-calendar/dist/Calendar.css";
-import ShowNotice from "../notices/ShowNotice";
+import ShowNotice from "../notices/showNotice";
 import { useSelector } from "react-redux";
 import ReplyIcon from "@mui/icons-material/Reply";
 import Notice from "../notices/Notice";

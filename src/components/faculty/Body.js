@@ -9,7 +9,7 @@ import "react-calendar/dist/Calendar.css";
 import { useSelector } from "react-redux";
 import Notice from "../notices/Notice";
 import ReplyIcon from "@mui/icons-material/Reply";
-import ShowNotice from "../notices/ShowNotice";
+import ShowNotice from "../notices/showNotice";
 const Body = () => {
   const [value, onChange] = useState(new Date());
   const [open, setOpen] = useState(false);
